@@ -1,4 +1,4 @@
-import { XMarkIcon, StopIcon, MinusIcon } from '@heroicons/react/24/outline';
+import { XMarkIcon, StopIcon, MinusIcon } from '@heroicons/react/24/outline/index.js';
 
 type Props = {
 	window: number;
