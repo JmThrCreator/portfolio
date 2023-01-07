@@ -27,7 +27,7 @@ const Window = ({
                     &#60;&#60;&#60; dev kitchen &#62;&#62;&#62;
                     <br/><br/>
                     step 1 - <a className="text-blue-600 italic" href="https://bandpractice.jonathanmaggio.co.uk" target="_blank">band-practice:</a><br/>techs: next, trpc and prisma.<br/>a page for bands and musicians to keep track of songs. <a className=" text-gray-400 italic" href="https://github.com/JmThrCreator/band-practice" target="_blank">github</a><br/><br/>
-                    step 2 - <a className="text-blue-600 italic" href="https://gravitygallery.jonathanmaggio.co.uk" target="_blank">gravity-gallery:</a><br/>techs: matter.js.<br/>a gallery with physics. <a className=" text-gray-400 italic" href="https://github.com/JmThrCreator/gravity-gallery" target="_blank">github</a><br/><br/>
+                    step 2 - <a className="text-blue-600 italic" href="https://gravitygallery.jonathanmaggio.co.uk" target="_blank">gravity-gallery:</a><br/>techs: matter.js, vite.<br/>a gallery with physics. <a className=" text-gray-400 italic" href="https://github.com/JmThrCreator/gravity-gallery" target="_blank">github</a><br/><br/>
                     step 3 - <a className="text-blue-600 italic" href="https://khnoticeboard.jonathanmaggio.co.uk" target="_blank">kh-notice-board:</a><br/>techs: python, flask, sqlite.<br/>a notice board that can display PDF, JPEG and PNG files and manage attendance. <a className=" text-gray-400 italic" href="https://github.com/JmThrCreator/kh-notice-board" target="_blank">github</a><br/><br/>
                 </p>
             }
