@@ -14,12 +14,11 @@ const Window = ({
                     <br/><br/>
                     --- shopping list ---
                     <br/><br/>
-                    <i>frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;react, next, astro, node, flask <br/>&#125;<br/><br/>
-                    <i>api:</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;(t)rpc, rest<br/><br/>
-                    <i>languages():</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;typescript.ts, javascript.js, &nbsp;&nbsp;&nbsp;&nbsp;python.py, html/css (don't forget &nbsp;&nbsp;&nbsp;&nbsp;tailwind)<br/><br/>
-                    <i>db = () =&#62; &#123;</i> SQL, slite.db, mysql; ORM- prisma &#125;<br/><br/>
-                    <i>&#60;utensils&#62;</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;photoshop.ps, illustrator.ai, .git, &nbsp;&nbsp;&nbsp;&nbsp;vscode <br/><i>&#60;utensils&#62;</i><br/><br/>
-                    <i>deployment = </i>[aws, linux, vercel, planetscale]
+                    <i>languages():</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;javascript.js/.ts, python.py,&nbsp;&nbsp;&nbsp;&nbsp;html/css)<br/><br/>
+                    <i>frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;react, next, astro, node, flask,&nbsp;&nbsp;&nbsp;&nbsp;svelte<br/>&#125;<br/><br/>
+                    <i>db = () =&#62; &#123;</i> SQL, slite.db, mysql&#125;<br/><br/>
+                    <i>&#60;utensils&#62;</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;photoshop.ps, illustrator.ai, .git<br/><i>&#60;utensils&#62;</i><br/><br/>
+                    <i>platforms = </i>[aws, linux]
                 </p>
             }
             { window===1 &&
@@ -34,7 +33,7 @@ const Window = ({
             }
             { window===2 &&
                 <p className="font-mono">
-                    email: jonathanfmaggio@gmail.com
+                    email: j.maggio@live.co.uk
                 </p>
             }
             </div>
