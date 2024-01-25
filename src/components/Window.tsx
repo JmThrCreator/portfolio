@@ -10,14 +10,12 @@ const Window = ({
             <div className="p-2 h-[27rem] overflow-auto scrollbar-y">
             { window===0 &&
                 <p className="font-mono">
-                    software dev
-                    <br/><br/>
-                    --- shopping list ---
+                    --- software shopping list ---
                     <br/><br/>
                     <i>languages():</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;javascript.js/.ts, <br/>&nbsp;&nbsp;&nbsp;&nbsp;python.py, <br/>&nbsp;&nbsp;&nbsp;&nbsp;html/css,<br/><br/>
-                    <i>frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;react, next, astro, <br/>&nbsp;&nbsp;&nbsp;&nbsp;flask, svelte, node<br/>&#125;<br/><br/>
-                    <i>db = () =&#62; &#123;</i>SQL, slite.db, mysql&#125;<br/><br/>
-                    <i>&#60;utensils&#62;</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;photoshop.ps, illustrator.ai, .git<br/><i>&#60;utensils&#62;</i><br/><br/>
+                    <i>web frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;"js": react, next, astro, svelte <br/>&nbsp;&nbsp;&nbsp;&nbsp;"python": flask<br/>&#125;<br/><br/>
+                    <i>db = () =&#62; &#123;</i>SQL, sqlite, mysql&#125;<br/><br/>
+                    <i>&#60;tool&#62;</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;photoshop.ps, illustrator.ai, .git<br/><i>&#60;tool&#62;</i><br/><br/>
                     <i>platforms = </i>[aws, linux]
                 </p>
             }
