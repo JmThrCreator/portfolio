@@ -13,7 +13,7 @@ const Window = ({
                     --- software shopping list ---
                     <br/><br/>
                     <i>languages():</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;javascript.js/.ts, <br/>&nbsp;&nbsp;&nbsp;&nbsp;python.py, <br/>&nbsp;&nbsp;&nbsp;&nbsp;html/css,<br/><br/>
-                    <i>web frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;"js": react, next, astro, svelte <br/>&nbsp;&nbsp;&nbsp;&nbsp;"python": flask<br/>&#125;<br/><br/>
+                    <i>web frameworks</i> &#123;<br/>&nbsp;&nbsp;&nbsp;&nbsp;"js": ["react", "next", "astro", "svelte"]<br/>&nbsp;&nbsp;&nbsp;&nbsp;"python": "flask"<br/>&#125;<br/><br/>
                     <i>db = () =&#62; &#123;</i>SQL, sqlite, mysql&#125;<br/><br/>
                     <i>&#60;tool&#62;</i><br/>&nbsp;&nbsp;&nbsp;&nbsp;photoshop.ps, illustrator.ai, .git<br/><i>&#60;tool&#62;</i><br/><br/>
                     <i>platforms = </i>[aws, linux]
